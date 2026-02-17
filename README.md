@@ -30,22 +30,17 @@ Most password meters just check "has uppercase + special character = strong!" �
 
 ## Privacy
 
-- **100% client-side** — zero network requests after page load
-- No analytics, no tracking, no cookies
-- Verify yourself: open DevTools → Network tab → type a password → zero requests
+- **All password analysis runs client-side** — your password never leaves the browser
+- Minimal analytics via [GoatCounter](https://www.goatcounter.com/) (open source, privacy-friendly, no cookies)
+- Verify password privacy: open DevTools → Network tab → type a password → zero requests sent
 
 ## Tech
 
 Single HTML file. No build step. No dependencies. Just open `index.html`.
 
-## 📚 More Developer Resources
+## Contributing
 
-Level up your security knowledge and developer workflow:
-
-- **[Developer Cheat Sheet Bundle](https://maxmini.gumroad.com/l/rsgxr)** — Essential cheat sheets for Git, terminal, regex, and more.
-- **[The Developer Prompt Library](https://maxmini.gumroad.com/l/xnvxh)** — 100+ battle-tested AI prompts for software developers.
-
----
+Issues and PRs welcome. If you want to add dictionary-aware analysis (à la zxcvbn), that'd be a great contribution.
 
 ## License
 
