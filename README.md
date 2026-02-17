@@ -38,6 +38,15 @@ Most password meters just check "has uppercase + special character = strong!" �
 
 Single HTML file. No build step. No dependencies. Just open `index.html`.
 
+## 📚 More Developer Resources
+
+Level up your security knowledge and developer workflow:
+
+- **[Developer Cheat Sheet Bundle](https://maxmini.gumroad.com/l/rsgxr)** — Essential cheat sheets for Git, terminal, regex, and more.
+- **[The Developer Prompt Library](https://maxmini.gumroad.com/l/xnvxh)** — 100+ battle-tested AI prompts for software developers.
+
+---
+
 ## License
 
 MIT
